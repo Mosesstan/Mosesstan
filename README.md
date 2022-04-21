@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mosesstan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
+- 👀 I’m a programmer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 08138170854 or https://www.facebook.com/moses.stan.9
 
